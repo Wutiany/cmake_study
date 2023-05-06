@@ -1,0 +1,4 @@
+/home/wty/Desktop/cmake_study/01-basic/D-shared-library/build/CMakeFiles/rebuild_cache.dir
+/home/wty/Desktop/cmake_study/01-basic/D-shared-library/build/CMakeFiles/edit_cache.dir
+/home/wty/Desktop/cmake_study/01-basic/D-shared-library/build/CMakeFiles/hello_library.dir
+/home/wty/Desktop/cmake_study/01-basic/D-shared-library/build/CMakeFiles/hello_binary.dir
